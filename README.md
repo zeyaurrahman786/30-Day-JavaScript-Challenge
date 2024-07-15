@@ -11,4 +11,4 @@ Day 2 : Operators
 
 
 Day 3 : Control Structures
-![Uploading Screenshot (545).png…]()
+![Screenshot (545)](https://github.com/user-attachments/assets/07303a3e-cb32-4a7c-ad63-1ed5874757ff)
