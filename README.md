@@ -12,3 +12,8 @@ Day 2 : Operators
 
 Day 3 : Control Structures
 ![Screenshot (545)](https://github.com/user-attachments/assets/07303a3e-cb32-4a7c-ad63-1ed5874757ff)
+
+
+
+Day 4 : Loops
+![Screenshot (555)](https://github.com/user-attachments/assets/e97420df-165b-410e-b995-75ba1a678350)
