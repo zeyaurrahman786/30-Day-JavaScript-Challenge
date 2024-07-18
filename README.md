@@ -22,3 +22,8 @@ Day 4 : Loops
 
 Day 5 : Functions
 ![Screenshot (569)](https://github.com/user-attachments/assets/669c8fd5-3f9a-4a1c-92e6-ee481779c0eb)
+
+
+
+Day 6 : Arrays
+![Screenshot (577)](https://github.com/user-attachments/assets/6b9b2dbf-e5ee-4d60-97fe-209f656891ba)
