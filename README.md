@@ -17,3 +17,8 @@ Day 3 : Control Structures
 
 Day 4 : Loops
 ![Screenshot (555)](https://github.com/user-attachments/assets/e97420df-165b-410e-b995-75ba1a678350)
+
+
+
+Day 5 : Functions
+![Screenshot (569)](https://github.com/user-attachments/assets/669c8fd5-3f9a-4a1c-92e6-ee481779c0eb)
