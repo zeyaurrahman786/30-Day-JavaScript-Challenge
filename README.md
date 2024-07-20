@@ -27,3 +27,12 @@ Day 5 : Functions
 
 Day 6 : Arrays
 ![Screenshot (577)](https://github.com/user-attachments/assets/6b9b2dbf-e5ee-4d60-97fe-209f656891ba)
+
+
+Day 7 : Objects
+![Screenshot (586)](https://github.com/user-attachments/assets/e7ed7cd1-8912-4a8b-b5be-b40ccf73812c)
+
+
+
+Day 8 : ES6+ Features
+![Screenshot (589)](https://github.com/user-attachments/assets/cd475390-59ac-41fc-ae10-4fce4d7b5b1e)
