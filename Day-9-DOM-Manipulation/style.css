@@ -1,0 +1,25 @@
+.bgColorChange {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(4, 167, 34);
+}
+
+.firstImage {
+    width: 300px;
+    height: 320px;
+    object-fit: contain;
+}
+
+.hoverElement {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.removeClass {
+    color: red;
+}
+
+.addClass {
+    color: blue;
+}
