@@ -41,3 +41,8 @@ Day 8 : ES6+ Features
 
 Day 9 : DOM Manipulation
 ![Screenshot (599)](https://github.com/user-attachments/assets/35ffc880-e0fa-4a34-b76c-c18c53d08f52)
+
+
+Day 10 : Event Handling
+![Screenshot (603)](https://github.com/user-attachments/assets/2736db19-a3e4-4de8-af96-949b5e3da5d8)
+
