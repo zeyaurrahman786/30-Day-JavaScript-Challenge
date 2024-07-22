@@ -36,3 +36,8 @@ Day 7 : Objects
 
 Day 8 : ES6+ Features
 ![Screenshot (589)](https://github.com/user-attachments/assets/cd475390-59ac-41fc-ae10-4fce4d7b5b1e)
+
+
+
+Day 9 : DOM Manipulation
+![Screenshot (599)](https://github.com/user-attachments/assets/35ffc880-e0fa-4a34-b76c-c18c53d08f52)
