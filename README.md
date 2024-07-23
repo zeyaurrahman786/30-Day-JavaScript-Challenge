@@ -47,5 +47,5 @@ Day 10 : Event Handling
 ![Screenshot (603)](https://github.com/user-attachments/assets/2736db19-a3e4-4de8-af96-949b5e3da5d8)
 
 
-Day 11 : Promises ans Async/Await
+Day 11 : Promises and Async/Await
 ![Screenshot (605)](https://github.com/user-attachments/assets/1be81db3-e093-464e-975b-0896c93ceda9)
