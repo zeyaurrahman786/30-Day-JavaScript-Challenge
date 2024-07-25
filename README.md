@@ -49,3 +49,11 @@ Day 10 : Event Handling
 
 Day 11 : Promises and Async/Await
 ![Screenshot (605)](https://github.com/user-attachments/assets/1be81db3-e093-464e-975b-0896c93ceda9)
+
+
+Day 12 : Error Handling
+![Screenshot (607)](https://github.com/user-attachments/assets/98c442e3-7e58-4112-b8b5-3707174be093)
+
+
+Day 13 : Modules
+![Screenshot (609)](https://github.com/user-attachments/assets/7987dd76-a123-474c-92a0-7081d82a7baf)
