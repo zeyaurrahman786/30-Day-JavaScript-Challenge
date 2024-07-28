@@ -61,3 +61,7 @@ Day 13 : Modules
 
 Day 14 : Classes
 ![Screenshot (612)](https://github.com/user-attachments/assets/45594e99-822d-4781-a4c1-f414bf05052b)
+
+
+Day 15 : Closures
+![Screenshot (614)](https://github.com/user-attachments/assets/68a3ff7a-76fa-47fe-b31d-55360bcb1331)
