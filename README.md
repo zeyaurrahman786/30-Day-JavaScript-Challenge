@@ -69,3 +69,7 @@ Day 15 : Closures
 
 Day 16 : Recursion
 ![Screenshot (615)](https://github.com/user-attachments/assets/a516635e-cb72-413f-b06a-a62419f81985)
+
+
+Day 17 : Data Structures
+![Screenshot (620)](https://github.com/user-attachments/assets/4a470f67-6832-4aa2-b668-b23669382390)
