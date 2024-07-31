@@ -73,3 +73,7 @@ Day 16 : Recursion
 
 Day 17 : Data Structures
 ![Screenshot (620)](https://github.com/user-attachments/assets/4a470f67-6832-4aa2-b668-b23669382390)
+
+
+Day 18 : Algorithms
+![Screenshot (589)](https://github.com/user-attachments/assets/2734374b-2f3a-4a7e-91d7-06ed5dae6356)
