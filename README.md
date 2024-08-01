@@ -81,3 +81,7 @@ Day 18 : Algorithms
 
 Day : 19 Regular Expressions
 ![Screenshot (628)](https://github.com/user-attachments/assets/9fd8aa38-4b95-4dd4-8888-3f7af6482646)
+
+
+Day 20 : LocalStorage and SessionStorage
+![Screenshot (631)](https://github.com/user-attachments/assets/4a5e447e-08cb-4e83-b51f-29c53c7f207b)
