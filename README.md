@@ -85,3 +85,7 @@ Day : 19 Regular Expressions
 
 Day 20 : LocalStorage and SessionStorage
 ![Screenshot (631)](https://github.com/user-attachments/assets/4a5e447e-08cb-4e83-b51f-29c53c7f207b)
+
+
+Day 21 : LeetCode Easy
+![Screenshot (634)](https://github.com/user-attachments/assets/9975b4b8-771b-40e8-81e3-304787c47ca9)
