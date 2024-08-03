@@ -89,3 +89,7 @@ Day 20 : LocalStorage and SessionStorage
 
 Day 21 : LeetCode Easy
 ![Screenshot (634)](https://github.com/user-attachments/assets/9975b4b8-771b-40e8-81e3-304787c47ca9)
+
+
+Day 22 : LeetCode Medium
+![Screenshot (643)](https://github.com/user-attachments/assets/fd3cb2d1-14d7-408f-924c-3c63d080f02f)
