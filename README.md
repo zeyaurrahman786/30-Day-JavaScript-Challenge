@@ -93,3 +93,7 @@ Day 21 : LeetCode Easy
 
 Day 22 : LeetCode Medium
 ![Screenshot (643)](https://github.com/user-attachments/assets/fd3cb2d1-14d7-408f-924c-3c63d080f02f)
+
+
+Day 23 : LeetCode Hard
+![Screenshot (645)](https://github.com/user-attachments/assets/d008fc56-4fa4-4c86-888e-394f71e9f25b)
