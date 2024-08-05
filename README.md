@@ -97,3 +97,7 @@ Day 22 : LeetCode Medium
 
 Day 23 : LeetCode Hard
 ![Screenshot (645)](https://github.com/user-attachments/assets/d008fc56-4fa4-4c86-888e-394f71e9f25b)
+
+
+Day 24 : Project 1 - Weather App 
+![Screenshot (647)](https://github.com/user-attachments/assets/4e494d8f-e001-48db-951e-a1529cf0f092)
