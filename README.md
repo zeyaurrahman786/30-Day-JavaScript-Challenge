@@ -101,3 +101,7 @@ Day 23 : LeetCode Hard
 
 Day 24 : Project 1 - Weather App 
 ![Screenshot (647)](https://github.com/user-attachments/assets/4e494d8f-e001-48db-951e-a1529cf0f092)
+
+
+Day 25 : Project 2 - Movie Search App
+![Screenshot (649)](https://github.com/user-attachments/assets/f92578f7-b549-4b45-8a29-da024863fabb)
