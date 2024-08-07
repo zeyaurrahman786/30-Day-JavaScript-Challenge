@@ -107,5 +107,5 @@ Day 25 : Project 2 - Movie Search App
 ![Screenshot (649)](https://github.com/user-attachments/assets/f92578f7-b549-4b45-8a29-da024863fabb)
 
 
-Day 26 : Project 2 - Chat Application
+Day 26 : Project 3 - Chat Application
 ![Screenshot (651)](https://github.com/user-attachments/assets/97970b64-4bc8-435e-a113-68949e532c87)
