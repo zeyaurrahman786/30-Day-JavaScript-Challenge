@@ -109,3 +109,7 @@ Day 25 : Project 2 - Movie Search App
 
 Day 26 : Project 3 - Chat Application
 ![Screenshot (651)](https://github.com/user-attachments/assets/97970b64-4bc8-435e-a113-68949e532c87)
+
+
+Day 27 : Project 4 - Task Management App
+![Screenshot (655)](https://github.com/user-attachments/assets/69bbaaac-eb00-42fc-8555-0f5d3adfeae9)
