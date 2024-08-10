@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="nav-container">
+            <h1>MySocial</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Settings</a></li>
+                <li><a href="#" id="logout-button">Logout</a></li> <!-- Logout Button -->
+            </ul>
+        </div>
+    </nav>
+
+    <div class="auth-container">
+        <!-- Login Form -->
+        <form id="login-form">
+            <h2>Login</h2>
+            <input type="text" id="username" placeholder="Username">
+            <input type="password" id="password" placeholder="Password">
+            <button type="submit">Login</button>
+        </form>
+    
+        <!-- Registration Form -->
+        <form id="registration-form">
+            <h2>Register</h2>
+            <input type="text" id="register-username" placeholder="Username">
+            <input type="password" id="register-password" placeholder="Password">
+            <button type="submit">Register</button>
+        </form>
+    </div>
+    
+
+        <!-- Post Creation Form -->
+        <div class="post-form" id="post-form" style="display: none;">
+            <h2>Create Post</h2>
+            <form id="post">
+                <label for="post-text">Post Text:</label>
+                <textarea id="post-text" required></textarea>
+                <label for="post-image">Post Image URL:</label>
+                <input type="text" id="post-image">
+                <button type="submit">Post</button>
+            </form>
+        </div>
+
+        <!-- Post Feed -->
+        <div class="post-feed" id="post-feed">
+            <h2>Feed</h2>
+            <!-- Posts will be dynamically inserted here -->
+        </div>
+    </div>
+
+    <!-- Post Details Modal -->
+    <div class="modal" id="post-modal">
+        <div class="modal-content">
+            <span class="close" id="close-modal">&times;</span>
+            <h2 id="modal-username"></h2>
+            <p id="modal-text"></p>
+            <img id="modal-image" src="" alt="Post Image">
+            <h3>Comments</h3>
+            <ul id="modal-comments"></ul>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 MySocial. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
