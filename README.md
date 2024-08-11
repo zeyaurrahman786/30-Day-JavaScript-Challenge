@@ -117,3 +117,7 @@ Day 27 : Project 4 - Task Management App
 
 Day 28 : Project 5 - E-Commerce Website
 ![Screenshot (657)](https://github.com/user-attachments/assets/0a0fb248-7c8a-4af2-873e-b702fabab67a)
+
+
+Day 29 : Project 6 - Social Media Dashboard
+![Screenshot (660)](https://github.com/user-attachments/assets/fc582593-ab14-404a-8f89-5b4e4ffb10e3)
