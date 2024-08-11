@@ -121,3 +121,7 @@ Day 28 : Project 5 - E-Commerce Website
 
 Day 29 : Project 6 - Social Media Dashboard
 ![Screenshot (660)](https://github.com/user-attachments/assets/fc582593-ab14-404a-8f89-5b4e4ffb10e3)
+
+
+Day 30 : Final Project - Social Media Dashboard Full Features
+![Screenshot (662)](https://github.com/user-attachments/assets/1eb790bd-31d3-4b08-b586-bf8f7ca8db55)
